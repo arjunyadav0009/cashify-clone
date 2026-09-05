@@ -1,0 +1,72 @@
+
+[
+  {
+    "title": "Sell Phone",
+    "image": "src/assets/sellphone.webp"
+  },
+  {
+    "title": "Buy Phone",
+    "image": "src/assets/buyphone.webp"
+  },
+  {
+    "title": "Buy Laptops",
+    "image": "src/assets/buylaptops.webp"
+  },
+  {
+    "title": "Repair Phone",
+    "image": "src/assets/repairphone.webp"
+  },
+  {
+    "title": "Repair Laptop",
+    "image": "src/assets/repairlaptop.webp"
+  },
+  {
+    "title": "Find New Phone",
+    "image": "src/assets/findnewphone.webp"
+  },
+  {
+    "title": "Nearby Stores",
+    "image": "src/assets/nearbystores.webp"
+  },
+  {
+    "title": "Buy Smartwatches",
+    "image": "src/assets/buysmartwatches.webp"
+  },
+  {
+    "title": "Recycle",
+    "image": "src/assets/recycle.webp"
+  },
+
+  {
+    "title": "Buy Gudgets",
+    "image": "src/assets/BuyGadgets.avif"
+  },
+  {
+    "title": "Buy Camera & Lenses",
+    "image": "src/assets/camera.avif"
+  },
+  {
+    "title": "Pixel Upgrade",
+    "image": "src/assets/pixel.avif"
+  },
+  {
+    "title": "Buy Gaming Consoles",
+    "image": "src/assets/gaming.avif"
+  },
+  {
+    "title": "Buy Smartwatches",
+    "image": "src/assets/watch.avif"
+  },
+
+  {
+    "title": "Buy Tablets",
+    "image": "src/assets/tablet.avif"
+  },
+  {
+    "title": "Rent PS5",
+    "image": "src/assets/ps5.gif"
+  }
+ 
+
+]
+

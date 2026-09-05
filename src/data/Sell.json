@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Sell Phone",
+    "image": "src/assets/sellphone.webp"
+  },
+  {
+    "title": "Sell Laptop",
+    "image": "src/assets/laptop.avif"
+  },
+  {
+    "title": "Sell TV",
+    "image": "src/assets/tv.avif"
+  },
+  {
+    "title": "Sell Tablet",
+    "image": "src/assets/tablet.avif"
+  },
+  {
+    "title": "Sell Gaming Consoles",
+    "image": "src/assets/gaming2.avif"
+  },
+  {
+    "title": "Sell SmartWatch",
+    "image": "src/assets/watch.avif"
+  },
+  {
+    "title": "Sell Smart Speakers",
+    "image": "src/assets/speaker.avif"
+  },
+
+  {
+    "title": "Sell Camera & Lenses",
+    "image": "src/assets/camera.avif"
+  },
+
+  {
+    "title": "Sell More",
+    "image": "src/assets/more.avif"
+  }
+]
